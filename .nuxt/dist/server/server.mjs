@@ -1,0 +1,1 @@
+export { default } from "file:///F:/WebDevProjects/AliexpressClone/aliexpress-clone/aliexpressclone/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
